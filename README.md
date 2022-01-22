@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mushroom-noni
 - 👀 I’m interested in natural and computer sciences.
 - 🌱 I’m currently learning Python.
-- 💞️ I use any pronouns.
+- 💞️ I like animals, nature and technology.
 - 📫 You can reach me via email on cev5870@innovaccion.mx
 
 <!---
