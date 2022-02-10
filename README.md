@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mushroom-noni
 - 👀 I’m interested in natural and computer sciences.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and Web Development.
 - 💞️ I like animals, nature and technology.
 - 📫 You can reach me via email on gabriela.diazgrc@gmail.com
 
